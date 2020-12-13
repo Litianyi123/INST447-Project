@@ -3,3 +3,6 @@ Many cities all over the US including the DC area have undergone urban redevelop
 
 # Purpose of our project
 Describing the trend in redevelopment over time. Try to investiage and answer several questions. Is redevelopment increasing? Decreasing? For which neighborhoods is it increasing? For which is it decreasing?
+
+# Team Members
+Tianyi Li, Ruiqi Lai, Didier Ernest, Lealena Befikadu, Malik Downey
