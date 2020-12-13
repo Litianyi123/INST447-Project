@@ -6,3 +6,6 @@ Describing the trend in redevelopment over time. Try to investiage and answer se
 
 # Team Members
 Tianyi Li, Ruiqi Lai, Didier Ernest, Lealena Befikadu, Malik Downey
+
+# Final Work
+The Final work and finding will be presented in the video presentation.
