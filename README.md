@@ -9,3 +9,4 @@ Tianyi Li, Ruiqi Lai, Didier Ernest, Lealena Befikadu, Malik Downey
 
 # Final Work
 The Final work and finding will be presented in the video presentation.
+Video Link: https://www.youtube.com/watch?v=sCZJE4pnDDA&feature=youtu.be
